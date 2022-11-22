@@ -8,4 +8,4 @@
                 PAPA SIDY MACTAR TRAORE
                 SERIGNE SALIOU FAYE
                 SANGOULE NDAO
-                NDEYE SOKHMA DIAGNE
+                NDEYE SOKHNA DIAGNE
