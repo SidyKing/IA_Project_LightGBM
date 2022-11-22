@@ -9,3 +9,5 @@
                 SERIGNE SALIOU FAYE
                 SANGOULE NDAO
                 NDEYE SOKHNA DIAGNE
+
+Lien dataset kaggle : https://www.kaggle.com/datasets/ealaxi/paysim1
